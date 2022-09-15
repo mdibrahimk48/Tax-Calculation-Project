@@ -1,0 +1,22 @@
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\bin\Debug\Tax_Project.exe
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\bin\Debug\Tax_Project.pdb
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\bin\Debug\Tax_Project.xml
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.Form1.resources
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.Resources.resources
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.exe
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.xml
+C:\Users\Khalil\Desktop\Project\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.pdb
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.exe
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.xml
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.pdb
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\bin\Debug\Tax_Project.exe
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\bin\Debug\Tax_Project.pdb
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\bin\Debug\Tax_Project.xml
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.Form1.resources
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\Tax_Project.Resources.resources
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\IBRAHIM\IBRAHIM\UNIVERSITY\IFY\ITP\My Made Apps\Project_Tax\Tax_Project\Tax_Project\obj\x86\Debug\GenerateResource.write.1.tlog
